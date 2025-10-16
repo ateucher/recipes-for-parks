@@ -1,0 +1,7 @@
+passwords.txt
+
+# ignore directories
+huge_raw_data/
+
+# ignore file types etc
+*.pdf
